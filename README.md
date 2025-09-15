@@ -108,5 +108,3 @@ A histogram analysis showed that certain years had more movies released than oth
 
 Feel free to ⭐ the repository if you find this useful! Contributions and suggestions are welcome.
 
-
-Let me know if you want this README to include installation instructions for virtual environments, links to the dataset, or sample screenshots!
